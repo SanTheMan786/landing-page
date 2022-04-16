@@ -91,7 +91,7 @@
 .random {
   text-align: center;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .random h1 {
@@ -104,19 +104,20 @@
   display: flex;
   justify-content: center;
   /* align-items: center; */
-  column-gap: 20px;
-  padding-bottom: 70px;
+  column-gap: 30px;
+  padding-bottom: 100px;
 }
 
 .border-text {
-  width: 100px;
+  width: 125px;
 }
 
 .border {
-  border: 2.5px solid #3882f6;
-  height: 100px;
-  width: 100px;
+  border: 3px solid #3882f6;
+  height: 125px;
+  width: 125px;
   border-radius: 10px;
+  margin-bottom: 10px;
 }
 
 .border-text p {
